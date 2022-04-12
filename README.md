@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
+</div>
+
 <div id="badges" align="center">
   <a href="https://asu.joinhandshake.com/stu/users/21171343">
     <img src="https://img.shields.io/badge/Handshake-red?style=for-the-badge&logo=handshake&logoColor=white" alt="Handshake Badge"/>
@@ -23,12 +27,6 @@ I am a beginning Tech Enthusiast exploring the many applications of programming.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="lua" alt="lua" width="40" heaight="40"/>&nbsp;
-</div>
-
----
-
-<div id="footer" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 </div>
 
 <!---
