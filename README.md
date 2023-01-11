@@ -17,15 +17,17 @@
 I am a beginning Tech Enthusiast exploring the many applications of programming.
   - Currently learning about operating systems, secure coding concepts, and web development with a few projects in progress.
   - I’m always open to opportunities to collaborate or connect to learn more about the industry and the intricacies of coding/programming.
-  - You can reach me via email at ✉️ <u>kbrakeal@asu.edu</u> or message me on any platform listed above with opportunities, advice, or questions.
+  - You can reach me via email at ✉️ kbrakeal@asu.edu or message me on any platform listed above with opportunities, advice, or questions.
 
 ---
 
 ### 🗨️ Languages and Tools :
 <div id="langIcons" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
 </div>
 
 <!---
