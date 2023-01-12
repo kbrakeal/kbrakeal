@@ -30,6 +30,15 @@ I am a ASU Applied Computing student exploring the many applications of programm
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
 </div>
 
+---
+
+### 💻 Practice:
+<div id="banners" align="center">
+  <img src="https://leetcard.jacoblin.cool/kbrakeal?theme=nord&font=Ubuntu" title="LeetCode" alt="LeetCode" height="120"/>&nbsp;
+  <img width="50"/>&nbsp;
+  <img src="https://www.codeabbey.com/index/user_banner/kylan-brakeall.png" title="CodeAbbey" alt="CodeAbbey" height="80"/>&nbsp;
+</div>
+
 <!---
 kbrakeal/kbrakeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
