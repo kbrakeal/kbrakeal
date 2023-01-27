@@ -14,7 +14,7 @@
 ---
 
 ### 🧠 About Me :
-I am a ASU Applied Computing student exploring the many applications of programming.
+I am an ASU Applied Computing student exploring the many applications of programming.
   - Currently learning about operating systems, secure coding concepts, and web development with a few projects in progress.
   - I’m always open to opportunities to collaborate or connect to learn more about the industry and the intricacies of coding/programming.
   - You can reach me via email at ✉️ kbrakeal@asu.edu or message me on any platform listed above with opportunities, advice, or questions.
